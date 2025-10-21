@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+.venv/
+env/
+venv/
+*.wav
+*.mp4
+.git 2
+.gitignore 2
+app.log
+.env
+requirements 2.txt
